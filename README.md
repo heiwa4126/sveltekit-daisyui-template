@@ -1,5 +1,8 @@
 # sveltekit-daisyui-template
 
-Svelte(SvelteKit)でDaisyUIを使う。
+Svelte(SvelteKit)で
+[daisyUI](https://daisyui.com/)
+を使うテンプレート。
 
-Cloned from <https://stackblitz.com/edit/daisyui-sveltekit/?file=package.json>
+<https://stackblitz.com/edit/daisyui-sveltekit/?file=package.json> からクローンして
+ちょっとだけ手を加えた。
